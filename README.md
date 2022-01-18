@@ -7,7 +7,6 @@
 
 - I'm  **Learner** | **Programmer** 
 - About me :- **Kaggle Master** | **ML & DS Enthusiast**
-- Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
@@ -26,6 +25,9 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/php.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/arduino.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/flutter.png"/>
 </p>
 
